@@ -1,0 +1,16 @@
+__pycache__/
+.ruff_cache/
+.venv/
+.DS_Store
+*.pyc
+*.npy
+*.aux
+*.log
+*.out
+data/chessboard_lightfield.png
+data/chess/settings.json
+data/chess/center_view.jpg
+data/own/alignment.json
+data/own/middle_frame.jpg
+data/own/templates.jpg
+data/own/source_frames.jpg
